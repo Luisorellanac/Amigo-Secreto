@@ -1,12 +1,7 @@
-let amigos = [];
+let amigos = []; 
 
-/**
- * Escribe un nuevo amigo en array "amigos - añadir".
- * Valida que el nombre de amigo no esté vacío antes de agregar.
- */
-
-function agregarAmigo() {
-let nombreAmigo = document.getElementById("amigo").value;
+function agregarAmigo () {
+    let nombreAmigo= 
 
     if (nombreAmigo.trim() === "") {
     alert("Por favor, inserte un nombre");

@@ -1,8 +1,9 @@
 # Amigo-Secreto
 
-Array almacenar nombres:
+Crear una variable array:
 
-Implementa una función para agregar amigos:
+let amigos = []
 
-Implementa función sortear amigos:
+
+
 
