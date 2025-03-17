@@ -41,8 +41,7 @@ for (let index = 0; index < amigos.length; index++) {
 function sortearAmigo() {
 let cantidadAmigos = amigos.length;
     if (cantidadAmigos === 0) {
-    alert("Por favor, i
-        +nserte un nombre antes de sortear");
+    alert("Por favor, inserte un nombre antes de sortear");
 } 
 
     else {
